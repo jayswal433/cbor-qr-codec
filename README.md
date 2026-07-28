@@ -74,3 +74,4 @@ a browser, or in an embedded JS runtime with no network access.
 ## License
 
 [MIT](./LICENSE)
+
